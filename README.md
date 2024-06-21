@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Aditya, a student majoring in Computer Science and Mathematics at the University of Illinois Urbana-Champaign. I am eager to use my knowledge and experience to create innovative software solutions in the industry. <br><br>
+Hi! My name is Aditya, a student studying Mathematics and Computer Science at the University of Illinois Urbana-Champaign. I am eager to use my knowledge and experience to create innovative software solutions in the industry. <br><br>
 
 ## 🔭 I’m currently working on:
 - Building AI/ML applications with TensorFlow
