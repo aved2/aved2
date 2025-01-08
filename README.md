@@ -2,8 +2,8 @@
 Hi! My name is Aditya, a student studying Mathematics and Computer Science at the University of Illinois Urbana-Champaign. I am eager to use my knowledge and experience to create innovative software solutions in the industry. <br><br>
 
 ## 🔭 I’m currently working on:
-- Building AI/ML applications with TensorFlow
-- Exploring Cloud Computing through AWS
+- Researching Transformers and Neural Network architecture
+- Exploring Quantative Finance and Algorithmic Trading
 
 
 ## 🌐 Socials:
