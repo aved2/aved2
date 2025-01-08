@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Aditya, a student studying Mathematics and Computer Science at the University of Illinois Urbana-Champaign. I am eager to use my knowledge and experience to create innovative software solutions in the industry. <br><br>
+Hi! My name is Aditya, a student studying Mathematics and Computer Science at the University of Illinois Urbana-Champaign. I am eager to use my knowledge and experience to create innovative software solutions in the industry. Check out my website for more info! [adityaved.com](https://linkedin.com/in/aditya-ved) <br><br>
 
 ## 🔭 I’m currently working on:
 - Researching Transformers and Neural Network architecture
